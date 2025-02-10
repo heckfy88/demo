@@ -1,0 +1,11 @@
+## Bug Description:
+### Expected Result:
+The program should print:
+```
+Processed Result: 30  # Assuming transform correctly doubles the values and sums them.
+```
+### Real Result:
+The program raises a TypeError:
+```
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+```

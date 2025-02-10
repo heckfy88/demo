@@ -1,0 +1,6 @@
+solve_issue:
+  description: >
+    {issue_description}  
+  expected_output: >
+    Provide the solution as a unified git patch (diff) with the necessary code changes.  
+  agent: developer
